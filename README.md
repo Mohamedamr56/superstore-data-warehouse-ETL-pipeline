@@ -1,8 +1,16 @@
-# superstore-data-warehouse-ETL-pipeline
+# End-to-End Superstore Data Warehouse: Python ETL Pipeline & Advanced T-SQL Analytics
 
 End-to-End Data Warehouse Pipeline: Automated ETL using Python & Pandas, Star Schema Dimensional Modeling, and Advanced Business Analytics in Microsoft SQL Server."
 
 
+
+
+## 📁 Repository Structure
+
+- `Sample - Superstore.csv`: Raw transactional dataset used as the source for the ETL pipeline.
+- `Superstore_ETL.ipynb`: Jupyter Notebook containing data profiling, data cleaning, star schema dimensional modeling, and programmatic DDL execution using SQLAlchemy.
+- `superstore_analytics.sql`: Production-grade T-SQL scripts including views, CTEs, dynamic stored procedures, and analytical window functions.
+- `README.md`: Complete project documentation, architecture diagram, and business insights.
 
 ### 1. Data Profiling, Exploration & Cleaning
 
